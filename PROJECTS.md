@@ -66,3 +66,21 @@ Focus:
 - System Integration
 
 Details: [healthcare-it.md](projects/healthcare-it.md)
+
+## Hospital Infrastructure Operations
+
+Operation, maintenance and continuous improvement of a mission-critical hospital IT infrastructure supporting clinical and administrative services.
+
+Focus:
+
+- Windows Server Administration
+- Active Directory
+- VMware Virtualization
+- Enterprise Networking
+- Monitoring & Troubleshooting
+- Technical Documentation
+- Vendor Coordination
+
+Details: [hospital-infrastructure-operations.md](projects/hospital-infrastructure-operations.md)
+
+---
