@@ -7,9 +7,9 @@
 
 # Welcome
 
-Welcome to my professional portfolio.
->This repository provides an overview of my experience in designing, operating and modernizing enterprise IT infrastructures with a focus on healthcare environments.
->Instead of presenting only a traditional résumé, this repository documents my technical expertise, project experience and professional approach to infrastructure engineering.
+... to my professional portfolio.
+This repository provides an overview of my experience in designing, operating and modernizing enterprise IT infrastructures with a focus on healthcare environments.
+Instead of presenting only a traditional résumé, this repository documents my technical expertise, project experience and professional approach to infrastructure engineering.
 
 ---
 
@@ -39,12 +39,12 @@ Welcome to my professional portfolio.
 
 # Repository
 
-ABOUT.md | Professional profile
-CV.md | Curriculum Vitae
-TECHNOLOGIES.md | Technology overview
-PROJECTS.md | Selected projects
-CERTIFICATES.md | Certifications
-CONTACT.md | Contact information
+- ABOUT.md | Professional profile
+- CV.md | Curriculum Vitae
+- TECHNOLOGIES.md | Technology overview
+- PROJECTS.md | Selected projects
+- CERTIFICATES.md | Certifications
+- CONTACT.md | Contact information
 
 ---
 
