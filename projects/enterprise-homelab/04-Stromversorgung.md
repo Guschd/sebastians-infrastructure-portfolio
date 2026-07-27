@@ -72,7 +72,7 @@ Die Managementkarte befindet sich im Management-VLAN und wird durch CheckMK übe
 
 ---
 
-## Überwachte Verbraucher
+## Verbraucher
 
 Folgende Systeme werden über die USV versorgt:
 
