@@ -123,6 +123,6 @@ zugrunde liegenden Konzepte und Entwcheidungsprozesse transparent darzustellen.
 > **Hinweis**
 >
 > Dieses Dokument zeigt den Zustand der Infrastruktur zum Zeitpunkt der Veröffentlichung. 
-> Änderungen an Hard- oder Software können zu Abweichungen gegenüber späteren Versionen führen.
+> Änderungen an Hard- oder Software können zu Abweichungen in späteren Versionen führen.
 
 ---
