@@ -44,8 +44,7 @@ Effekta Office RM600 Online-USV
 Zum Schutz der Infrastruktur wird eine **Effekta Office RM600 Online-USV** eingesetzt.
 
 ### Technische Daten
-|||
-|-------------|------|
+
 | Hersteller | Effekta |
 | Modell | Office RM600 |
 | Bauform | 19"-Rack |
