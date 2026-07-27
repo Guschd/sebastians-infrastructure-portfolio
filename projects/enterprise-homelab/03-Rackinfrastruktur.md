@@ -1,4 +1,4 @@
-# 3 Rackinfrastruktur
+# Rackinfrastruktur
 
 ## Zielsetzung
 
