@@ -30,7 +30,7 @@ Responsible for the operation, maintenance and continuous development of the hos
 
 ## Selected Projects
 
-# Infrastructure Modernization
+## Infrastructure Modernization
 
 Planning and coordination of the IT infrastructure during a multi-year hospital renovation.
 
@@ -46,7 +46,7 @@ Responsibilities included:
 
 ---
 
-# Ruckus Enterprise WLAN
+## Ruckus Enterprise WLAN
 
 Technical coordination during the rollout of a new enterprise WLAN infrastructure.
 
@@ -60,7 +60,7 @@ Focus:
 
 ---
 
-# Enterprise Homelab
+## Enterprise Homelab
 
 Design, implementation and operation of a private enterprise lab for evaluating virtualization, networking, infrastructure services and documentation.
 
@@ -106,8 +106,8 @@ Focus:
 
 ## Languages
 
-| German | Native |
-| English | Professional Working Proficiency |
+- German | Native 
+- English | Professional Working Proficiency
 
 ---
 
