@@ -26,7 +26,7 @@ Dadurch können sowohl vollständige Systeme als auch einzelne Anwendungen unabh
 
 Die Proxmox-Backups werden auf einer dedizierten externen Festplatte gespeichert.
 
-|||
+|-|-|
 | Hersteller | Western Digital |
 | Modell | WD Red |
 | Kapazität | 500 GB |
