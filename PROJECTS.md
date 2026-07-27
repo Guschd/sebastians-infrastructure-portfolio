@@ -17,7 +17,7 @@ Focus:
 - VLAN Design
 - Technical Coordination
 
-Details: [hospital-modernization.md](projects/hospital-modernization.md)
+Details: [hospital-infrastructure-modernization.md](projects/hospital-modernization.md)
 
 ---
 
