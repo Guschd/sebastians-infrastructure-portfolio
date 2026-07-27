@@ -25,7 +25,7 @@ Dadurch können sowohl vollständige Systeme als auch einzelne Anwendungen unabh
 ## Backup-Ziel
 
 Die Proxmox-Backups werden auf einer dedizierten externen Festplatte gespeichert.
-
+|||
 |-|-|
 | Hersteller | Western Digital |
 | Modell | WD Red |
