@@ -45,7 +45,6 @@ Zum Schutz der Infrastruktur wird eine **Effekta Office RM600 Online-USV** einge
 
 ### Technische Daten
 
-| Eigenschaft | Wert |
 |-------------|------|
 | Hersteller | Effekta |
 | Modell | Office RM600 |
