@@ -1,4 +1,4 @@
-# 14 Designprinzipien und Architekturentscheidungen
+# Designprinzipien und Architekturentscheidungen
 
 Die vorliegende Infrastruktur entstand nicht mit dem Ziel, ein möglichst leistungsstarkes Homelab aufzubauen. Vielmehr entwickelte sie sich schrittweise zu einer produktionsnahen Test-, Evaluierungs- und Betriebsumgebung, in der Technologien unter realistischen Bedingungen untersucht, bewertet und langfristig betrieben werden können.
 
