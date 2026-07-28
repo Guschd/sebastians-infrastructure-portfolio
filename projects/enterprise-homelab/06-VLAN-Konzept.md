@@ -19,7 +19,8 @@ Das Routing zwischen den VLANs erfolgt ausschließlich über die WatchGuard Fire
 | 🟠 VLAN 30 | IoT | 10.14.0.0/24 | Smart Home |
 | 🟣 VLAN 40 | Homeoffice | 192.168.179.0/24 | VPN / Arbeiten |
 | 🔴 VLAN 41 | Management | 10.0.6.0/24 | Administration |
-'''mermaid
+
+```mermaid
 flowchart TB
 
 %% ===========================
