@@ -1,17 +1,15 @@
 flowchart TB
 
-%% ===========================
 %% Komponenten
-%% ===========================
 
-UNL["☁️ Ruckus Unleashed Cluster"]
+UNL["Ruckus Unleashed Cluster"]
 
-AP1["📡 R500 EG"]
-AP2["📡 R500 OG"]
-AP3["📡 R500 Keller"]
-AP4["📡 R500 Büro"]
+AP1["R500 EG"]
+AP2["R500 OG"]
+AP3["R500 Keller"]
+AP4["R500 Büro"]
 
-FW["🔥 WatchGuard Firebox T20"]
+FW["WatchGuard Firebox T20"]
 
 V10["WLAN-Allgemein<br/>VLAN 10"]
 V20["WLAN-Kinder<br/>VLAN 20"]
@@ -19,7 +17,7 @@ V30["WLAN-MD<br/>VLAN 30"]
 V40["WLAN-Office<br/>VLAN 40"]
 V41["WLAN-MGMT (Hidden)<br/>VLAN 41"]
 
-MGMT["🛠 Management<br/>Unleashed GUI"]
+MGMT["Management<br/>Unleashed GUI"]
 
 %% ===========================
 %% Verbindungen
@@ -43,9 +41,7 @@ FW --> V41
 
 MGMT -->|HTTPS| UNL
 
-%% ===========================
-%% Farben
-%% ===========================
+%% Farbedefinition
 
 classDef controller fill:#1976D2,color:#fff,stroke:#0D47A1,stroke-width:2px;
 
