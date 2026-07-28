@@ -1,0 +1,22 @@
+flowchart TD
+
+Problem[Neue Anforderung]
+
+Problem --> Analyse
+
+Analyse --> Technik["Technische Bewertung"]
+Analyse --> Wirtschaft["Ökonomische Bewertung"]
+Analyse --> Erfahrung["Berufliche Erfahrung"]
+
+Technik --> Test[Test im Homelab]
+Wirtschaft --> Test
+Erfahrung --> Test
+
+Test --> Monitoring
+Monitoring --> Dokumentation
+Dokumentation --> Evaluation
+
+Evaluation --> Entscheidung
+
+Entscheidung --> Betrieb["Produktiver Betrieb"]
+Entscheidung --> Wissen["Wissenstransfer"]
