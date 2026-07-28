@@ -1,0 +1,46 @@
+graph LR
+
+Internet((Internet))
+Vodafone[Vodafone Kabelanschluss]
+FB[AVM FRITZ!Box]
+WG[WatchGuard Firebox T20]
+SW[HP ProCurve 1810-24G]
+POE[YuanLey PoE Switch]
+
+style WG fill:#d32f2f,color:#fff
+style POE fill:#1565c0,color:#fff
+style AP1 fill:#1565c0,color:#fff
+style AP2 fill:#1565c0,color:#fff
+style AP3 fill:#1565c0,color:#fff
+style AP4 fill:#1565c0,color:#fff
+style PI fill:#ef6c00,color:#fff
+style PA fill:#ef6c00,color:#fff
+style PX fill:#ef6c00,color:#fff
+style FB fill:#f9a825,color:#fff
+style SW fill:#616161,color:#fff
+
+AP1[Ruckus R500 EG]
+AP2[Ruckus R500 OG]
+AP3[Ruckus R500 Keller]
+AP4[Ruckus R500 Büro]
+
+PX[Proxmox Host]
+PI[CheckMK]
+PA[pi-hole]
+PE[Effekta]
+
+Internet --> Vodafone
+Vodafone --> FB
+FB --> WG
+WG --> SW
+
+SW --> PX
+SW --> PA
+SW --> PI
+SW --> PE
+SW --> POE
+
+POE --> AP1
+POE --> AP2
+POE --> AP3
+POE --> AP4
