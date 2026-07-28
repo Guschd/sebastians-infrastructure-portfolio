@@ -66,9 +66,7 @@ FW --> V41
 
 MGMT -->|HTTPS| UNL
 
-%% ===========================
 %% Farben
-%% ===========================
 
 classDef controller fill:#1976D2,color:#fff,stroke:#0D47A1,stroke-width:2px;
 
@@ -95,6 +93,7 @@ class V40 vlan40;
 class V41 vlan41;
 
 class MGMT mgmt;
+```
 ---
 
 ## Routing
