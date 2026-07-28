@@ -40,12 +40,12 @@ Instead of presenting only a traditional résumé, this repository documents my 
 # Repository
 
 - [ABOUT.md](ABOUT.md) | Professional profile
-- CV.md | Curriculum Vitae
-- TECHNOLOGIES.md | Technology overview
-- PROJECTS.md | Selected projects
-- CERTIFICATES.md | Certifications
-- CONTACT.md | Contact information
-- projects | Professional and private projects
+- [CV.md](CV.md) | Curriculum Vitae
+- [TECHNOLOGIES.md](TECHNOLOGIES.md) | Technology overview
+- [PROJECTS.md](PROJECTS.md) | Selected projects
+- [CERTIFICATES.md](CERTIFIACTES.md) | Certifications
+- [CONTACT.md](CONTACT.md) | Contact information
+- [projects](projects) | Professional and private projects
 ---
 
 *"Good infrastructure is not measured by how often it is noticed, but by how reliably it supports daily operations."*
