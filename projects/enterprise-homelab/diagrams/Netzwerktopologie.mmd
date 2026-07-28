@@ -25,9 +25,9 @@ AP3[Ruckus R500 Keller]
 AP4[Ruckus R500 Büro]
 
 PX[Proxmox Host]
-PI[CheckMK]
-PA[pi-hole]
-PE[Effekta]
+CMK[CheckMK]
+PH[pi-hole]
+USV[Effekta]
 
 Internet --> Vodafone
 Vodafone --> FB
@@ -35,9 +35,9 @@ FB --> WG
 WG --> SW
 
 SW --> PX
-SW --> PA
-SW --> PI
-SW --> PE
+SW --> CMK
+SW --> PH
+SW --> USV
 SW --> POE
 
 POE --> AP1
