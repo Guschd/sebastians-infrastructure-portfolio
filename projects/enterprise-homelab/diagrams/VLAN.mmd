@@ -1,0 +1,74 @@
+flowchart TB
+
+%% ===========================
+%% Komponenten
+%% ===========================
+
+UNL["☁️ Ruckus Unleashed Cluster"]
+
+AP1["📡 R500 EG"]
+AP2["📡 R500 OG"]
+AP3["📡 R500 Keller"]
+AP4["📡 R500 Büro"]
+
+FW["🔥 WatchGuard Firebox T20"]
+
+V10["WLAN-Allgemein<br/>VLAN 10"]
+V20["WLAN-Kinder<br/>VLAN 20"]
+V30["WLAN-MD<br/>VLAN 30"]
+V40["WLAN-Office<br/>VLAN 40"]
+V41["WLAN-MGMT (Hidden)<br/>VLAN 41"]
+
+MGMT["🛠 Management<br/>Unleashed GUI"]
+
+%% ===========================
+%% Verbindungen
+%% ===========================
+
+UNL --> AP1
+UNL --> AP2
+UNL --> AP3
+UNL --> AP4
+
+AP1 --- FW
+AP2 --- FW
+AP3 --- FW
+AP4 --- FW
+
+FW --> V10
+FW --> V20
+FW --> V30
+FW --> V40
+FW --> V41
+
+MGMT -->|HTTPS| UNL
+
+%% ===========================
+%% Farben
+%% ===========================
+
+classDef controller fill:#1976D2,color:#fff,stroke:#0D47A1,stroke-width:2px;
+
+classDef ap fill:#4FC3F7,color:#000,stroke:#0288D1;
+
+classDef firewall fill:#D32F2F,color:#fff,stroke:#7F0000,stroke-width:3px;
+
+classDef vlan20 fill:#42A5F5,color:#fff;
+classDef vlan10 fill:#66BB6A,color:#fff;
+classDef vlan30 fill:#FB8C00,color:#fff;
+classDef vlan41 fill:#c62828,color:#fff;
+classDef vlan40 fill:#8E24AA,color:#fff;
+
+classDef mgmt fill:#616161,color:#fff;
+
+class UNL controller;
+class AP1,AP2,AP3,AP4 ap;
+class FW firewall;
+
+class V10 vlan10;
+class V20 vlan20;
+class V30 vlan30;
+class V40 vlan40;
+class V41 vlan41;
+
+class MGMT mgmt;
