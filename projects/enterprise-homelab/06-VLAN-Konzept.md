@@ -20,7 +20,7 @@ Das Routing zwischen den VLANs erfolgt ausschließlich über die WatchGuard Fire
 | 🟣 VLAN 40 | Homeoffice | 192.168.179.0/24 | VPN / Arbeiten |
 | 🔴 VLAN 41 | Management | 10.0.6.0/24 | Administration |
 
-![](diagrams/.mmd)
+![VLAN-Overview](diagrams/VLAN.mmd)
 ---
 
 ## Routing
