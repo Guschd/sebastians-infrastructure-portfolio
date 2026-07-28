@@ -39,7 +39,7 @@ Instead of presenting only a traditional résumé, this repository documents my 
 
 # Repository
 
-- ABOUT.md | Professional profile
+- ABOUT.md (ABOUT.md) | Professional profile
 - CV.md | Curriculum Vitae
 - TECHNOLOGIES.md | Technology overview
 - PROJECTS.md | Selected projects
