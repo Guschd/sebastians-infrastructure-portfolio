@@ -45,7 +45,7 @@ Instead of presenting only a traditional résumé, this repository documents my 
 - PROJECTS.md | Selected projects
 - CERTIFICATES.md | Certifications
 - CONTACT.md | Contact information
-- projects | Professional and private project documentations
+- projects | Professional and private projects
 ---
 
 *"Good infrastructure is not measured by how often it is noticed, but by how reliably it supports daily operations."*
