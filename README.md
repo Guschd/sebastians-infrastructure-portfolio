@@ -51,7 +51,7 @@ Instead of presenting only a traditional résumé, this repository documents my 
   - [Enterprise WLAN](projects/entp-wlan.md)
   - [General healthcare IT](projects/healthcare-it.md)
   - [homelab](projects/enterprise-homelab/)
-- [architecture](architecture) | My Philosophy and Methods
+- architecture | My Philosophy and Methods
   - [README.md](README.md)
   - [ENGINEERING-METHOD.md](ENGINEERING-METHOD.md)
   - [DESIGN-PHILOSOPHY.md](DESIGN-PHILOSOPHY.md)
