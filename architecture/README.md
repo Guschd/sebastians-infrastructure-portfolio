@@ -38,4 +38,12 @@ Every solution begins with understanding the operational requirement, evaluating
 
 ---
 
+## Documentation Status
+
+| Ready | Work in Progress | Planned |
+
+|------:|-----------------:|---------:|
+
+| 1 | 2 | 7 |
+
 *"Good infrastructure is not measured by its complexity, but by how effectively it enables people to perform their work."*
