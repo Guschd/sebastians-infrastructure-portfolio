@@ -46,11 +46,11 @@ Instead of presenting only a traditional résumé, this repository documents my 
 - [CERTIFICATES.md](CERTIFIACTES.md) | Certifications
 - [CONTACT.md](CONTACT.md) | Contact information
 - [projects](projects) | Quickest way to my projects
-  - [enterprise-homelab](projects/enterprise-homelab/)
   - []()
   - []()
   - []()
   - []()
+  - [homelab](projects/enterprise-homelab/)
 - [architecture](architecture) | My Philosophy and Methods
   - [README.md](README.md)
   - [ENGINEERING-METHOD.md](ENGINEERING-METHOD.md)
