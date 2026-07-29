@@ -18,7 +18,7 @@ Infrastructure Planning • Enterprise Networking • Technical Project Coordina
 🐙 GitHub projects
 
 [CYSSI](https://github.com/Guschd/CYSSI)
-[FRUDEK](https://github.com/Guschd/FRUDEK)
+[FRUDEK](https://github.com/Guschd/Framework-FRUDEK)
 
 ---
 
