@@ -45,7 +45,16 @@ Instead of presenting only a traditional résumé, this repository documents my 
 - [PROJECTS.md](PROJECTS.md) | Selected projects
 - [CERTIFICATES.md](CERTIFIACTES.md) | Certifications
 - [CONTACT.md](CONTACT.md) | Contact information
-- [projects](projects) | Professional and private projects
+- [projects](projects) | Quickest way to my professional and private projects
+  -[]()
+  -[]()
+  -[]()
+  -[]()
+  -[]()
+- [architecture](architecture) | My Philosophy and Methods
+  -[README.md](README.md)
+  -[ENGINEERING-METHOD.md](ENGINEERING-METHOD.md)
+  -[DESIGN-PHILOSOPHY.md](DESIGN-PHILOSOPHY.md)
 ---
 
 *"Good infrastructure is not measured by how often it is noticed, but by how reliably it supports daily operations."*
