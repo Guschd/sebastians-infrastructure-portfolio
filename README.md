@@ -45,9 +45,9 @@ Instead of presenting only a traditional résumé, this repository documents my 
 - [PROJECTS.md](PROJECTS.md) | Selected projects
 - [CERTIFICATES.md](CERTIFIACTES.md) | Certifications
 - [CONTACT.md](CONTACT.md) | Contact information
-- [projects](projects) | Quickest way to my projects
-  - []()
-  - []()
+- [Key projects](projects) | Quickest way to my projects
+  - [Hospital-Infrastructure Moderization](projekts/hospital-infrastructure-modernization.md)
+  - [Hospital-Infrastructure Operations](projects/hospital-infrastructure-operations.md)
   - []()
   - []()
   - [homelab](projects/enterprise-homelab/)
