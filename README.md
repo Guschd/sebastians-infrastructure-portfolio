@@ -45,11 +45,11 @@ Instead of presenting only a traditional résumé, this repository documents my 
 - [PROJECTS.md](PROJECTS.md) | Selected projects
 - [CERTIFICATES.md](CERTIFIACTES.md) | Certifications
 - [CONTACT.md](CONTACT.md) | Contact information
-- [Key projects] | Quickest way to my projects
+- Key projects | Quickest way to my projects
   - [Hospital-Infrastructure Moderization](projekts/hospital-infrastructure-modernization.md)
   - [Hospital-Infrastructure Operations](projects/hospital-infrastructure-operations.md)
-  - []()
-  - []()
+  - [Enterprise WLAN](projects/entp-wlan.md)
+  - [General healthcare IT](projects/healthcare-it.md)
   - [homelab](projects/enterprise-homelab/)
 - [architecture](architecture) | My Philosophy and Methods
   - [README.md](README.md)
