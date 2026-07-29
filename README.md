@@ -43,7 +43,7 @@ Instead of presenting only a traditional résumé, this repository documents my 
 - [CV.md](CV.md) | Curriculum Vitae
 - [TECHNOLOGIES.md](TECHNOLOGIES.md) | Technology overview
 - [PROJECTS.md](PROJECTS.md) | Selected projects
-- [CERTIFICATES.md](CERTIFIACTES.md) | Certifications
+- [CERTIFICATES.md](CERTIFICATES.md) | Certifications
 - [CONTACT.md](CONTACT.md) | Contact information
 - Key projects | Quickest way to my projects
   - [Hospital-Infrastructure Moderization](projekts/hospital-infrastructure-modernization.md)
