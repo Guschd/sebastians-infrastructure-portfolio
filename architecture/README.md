@@ -42,7 +42,7 @@ Every solution begins with understanding the operational requirement, evaluating
 
 | Ready | Work in Progress | Planned |
 
-|------:|-----------------:|---------:|
+|------|-----------------|---------|
 
 | 1 | 2 | 7 |
 
