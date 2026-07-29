@@ -102,11 +102,12 @@
 
 ---
 
-## Client Management
+## Client/Session Management
 
 - 10ZiG Manager
-- RepurpOS
 - IGEL UMS
+- Citrix Web Studio
+- Citrix Director
 
 ---
 
@@ -124,12 +125,12 @@
 - Nexus E&L
 - Onkostar
 - Philips IntelliSpace
-- Philips Ultrasound
-- Olympus Endoscopy
-- amedtec ECGpro
+- Olympus Hytrack
+- amedtecECGpro
 - Polaris EEG/EMG
 - Segosoft
 - ixserv Laboratory
+- mirth
 
 ---
 
