@@ -45,7 +45,7 @@ Instead of presenting only a traditional résumé, this repository documents my 
 - [PROJECTS.md](PROJECTS.md) | Selected projects
 - [CERTIFICATES.md](CERTIFIACTES.md) | Certifications
 - [CONTACT.md](CONTACT.md) | Contact information
-- [projects](projects) | Quickest way to my professional and private projects
+- [projects](projects) | Quickest way to my projects
   - [projects/enterprise-homelab](projects/enterprise-homelab)
   - []()
   - []()
