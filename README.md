@@ -53,8 +53,8 @@ Instead of presenting only a traditional résumé, this repository documents my 
   - [enterprise-homelab](projects/enterprise-homelab/01-Executive-Summary.md)
 - architecture | My philosophy and methods
   - [README.md](README.md)
-  - [DESIGN-PHILOSOPHY.md](DESIGN-PHILOSOPHY.md)
-  - [ENGINEERING-METHOD.md](ENGINEERING-METHOD.md)
+  - [DESIGN-PHILOSOPHY.md](architecture/DESIGN-PHILOSOPHY.md)
+  - [ENGINEERING-METHOD.md](architecture/ENGINEERING-METHOD.md)
 ---
 
 *"Good infrastructure is not measured by how often it is noticed, but by how reliably it supports daily operations."*
