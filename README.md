@@ -50,7 +50,7 @@ Instead of presenting only a traditional résumé, this repository documents my 
   - [Hospital-Infrastructure Operations](projects/hospital-infrastructure-operations.md)
   - [Enterprise WLAN](projects/entp-wlan.md)
   - [General healthcare IT](projects/healthcare-it.md)
-  - [homelab](projects/enterprise-homelab)
+  - [homelab](projects/enterprise-homelab/01-Executive-Summary.md)
 - architecture | My philosophy and methods
   - [README.md](README.md)
   - [ENGINEERING-METHOD.md](ENGINEERING-METHOD.md)
