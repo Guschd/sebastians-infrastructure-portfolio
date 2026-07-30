@@ -50,12 +50,11 @@ Instead of presenting only a traditional résumé, this repository documents my 
   - [Hospital-Infrastructure Operations](projects/hospital-infrastructure-operations.md)
   - [Enterprise WLAN](projects/entp-wlan.md)
   - [General healthcare IT](projects/healthcare-it.md)
-  - [homelab](projects/enterprise-homelab/01-Executive-Summary.md)
+  - [enterprise-homelab](projects/enterprise-homelab/01-Executive-Summary.md)
 - architecture | My philosophy and methods
   - [README.md](README.md)
   - [DESIGN-PHILOSOPHY.md](DESIGN-PHILOSOPHY.md)
   - [ENGINEERING-METHOD.md](ENGINEERING-METHOD.md)
- 
 ---
 
 *"Good infrastructure is not measured by how often it is noticed, but by how reliably it supports daily operations."*
