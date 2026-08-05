@@ -101,6 +101,7 @@ Focus:
 
 - ITIL Foundation
 - Domino Administrator
+- CCNA
 
 ---
 
