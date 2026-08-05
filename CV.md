@@ -24,7 +24,7 @@ Responsible for the operation, maintenance and continuous development of the hos
 - Healthcare IT systems
 - Monitoring & documentation
 - Technical procurement
-- 1st & 2nd level support
+- 1st, 2nd & 3rd level support
 
 ---
 
