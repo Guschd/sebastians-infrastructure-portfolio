@@ -24,7 +24,7 @@ Hierzu zählen unter anderem:
 - Raspberry-Pi-Systeme
 - Kabelmanagement
 
-Die genaue Höheneinteilung ist im Racklayout ![Rackansicht Front](rack_front.jpg) ersichtlich.
+Die genaue Höheneinteilung ist im Racklayout ersichtlich. ![Rackansicht Front](rack_front.jpg)
 
 ---
 
