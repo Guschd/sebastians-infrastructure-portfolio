@@ -18,7 +18,7 @@ Continuous education through hands-on project work, self-hosted enterprise envir
 
 ### Volunteer Fire Department
 
-Long-term active member with additional involvement in youth development and community activities.
+Long-term active member with additional involvement in youth development and fire(hazard) prevention education.
 
 ---
 
