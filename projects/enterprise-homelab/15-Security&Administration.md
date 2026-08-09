@@ -1,4 +1,4 @@
-# Security, Administration und Betrieb
+# 15 Security, Administration und Betrieb
 
 Das Enterprise Homelab ist keine isolierte Spielumgebung, sondern eine
 produktionsnahe Infrastruktur, in der Dienste dauerhaft betrieben,
