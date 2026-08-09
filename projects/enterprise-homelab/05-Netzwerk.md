@@ -1,4 +1,4 @@
-# 5 Physische Netzwerkinfrastruktur
+# Physische Netzwerkinfrastruktur
 
 ## Zielsetzung
 
